@@ -1,3 +1,3 @@
 # Argus-VR-Project
-The Flask-File branch contains the backend flask files of the project,
-Screenshots branch contains the database tables description screenshots
+Back-end Files using flask which performs validations on form at back-end & operations on Google Cloud SQl.
+Images shows us the table description in Google Cloud SQL.
